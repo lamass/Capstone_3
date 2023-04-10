@@ -1,0 +1,1 @@
+5 folders with balanced scaled OHLC and VWAP rows. 2 min interval. 
